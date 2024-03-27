@@ -1,5 +1,8 @@
 Code for Image up-down motion:
 
+Add (imagefloat) class to the image advance and in CSS Classes.
+If you dont have pro then add below code in Customise > Additional CSS 
+
 .imagefloat {
     animation: float 2.5s ease-in-out infinite;
 }
